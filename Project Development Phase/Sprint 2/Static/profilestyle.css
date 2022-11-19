@@ -1,0 +1,32 @@
+*{
+margin:0;
+padding:0;
+}
+.container{
+width:100%;
+height:100vh;
+font-family:initial;
+background:#87b564;
+color:#fff;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+.card{
+width:390px;
+height:500px;
+box-shadow: 0 0 40px 20px rgba(0,0,0,0.26);
+background:#ccfca7;
+
+}
+.input-box{
+width:98%;
+border:2px solid #fff;
+margin:6px 0;
+height:32px;
+border-radius:20px;
+padding:0 10px;
+box-sizing:border-box;
+outline:none;
+text-align:center;
+}
